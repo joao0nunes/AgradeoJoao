@@ -1,2 +1,2 @@
 # czin-hoje
-[https://joao0nunes.github.io/fds-bct-msm/](https://joao0nunes.github.io/pedidodojao/)
+[Clica aqui](https://joao0nunes.github.io/pedidodojao/)
